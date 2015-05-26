@@ -1,0 +1,1 @@
+Puppytracker is a ruby on rails App from Edx CS 169 and a sample practice to use rspec for testing.
